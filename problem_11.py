@@ -19,10 +19,11 @@ def columns(arrays):
 def diagonals(arrays):
     products = []
     for i in range(len(arrays)-3):
-        products.append(arrays[i][i] * arrays[i+1][i+1] * arrays[i+2][i+2] * arrays[i+3][i+3])
-    arrays = np.array(arrays).T
+        for j in range(len(arrays)-3):
+            products.append(arrays[i][j] * arrays[i+1][j+1] * arrays[j+2][i+2] * arrays[i+3][j+3])
     for i in range(len(arrays)-3):
-        products.append(arrays[i][i] * arrays[i+1][i+1] * arrays[i+2][i+2] * arrays[i+3][i+3])
+        for j in range(len(arrays)-3):
+            products.append(arrays[i][j] * arrays[i+1][j-1] * arrays[i+2][j-2] * arrays[i+3][j-3])
     return products
 
 
