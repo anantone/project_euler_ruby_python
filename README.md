@@ -4,3 +4,29 @@ These are my solutions to the puzzles on projecteuler.net
 
 The aim is to solve each puzzle in both Ruby and Python, to see how the
 languages compare and brush up on both.
+
+| Problem | Ruby | Python |
+|--|--|--|
+| 1 | x |x|
+| 2 | x|x |
+| 3 | x|x |
+| 4 | x|x |
+| 5 | x|x |
+| 6 | x|x |
+| 7 | x|x |
+| 8 | x|x |
+| 9 | x|x |
+| 10| x|x |
+| 11| x|x |
+| 12| x|x |
+| 13| | x|
+| 14| x|x |
+| 16| x|x |
+| 17 | | x|
+| 19 | x | |
+| 20 | x | x|
+|21  |  x|  |
+| 22 | x | x |
+|25 | x | x |
+| 30 | x | |
+| 32 | x | |
