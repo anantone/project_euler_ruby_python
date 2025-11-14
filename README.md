@@ -25,7 +25,7 @@ Happy to discuss if anyone feels so inclined.
 | 14| x|x |
 | 16| x|x |
 | 17| x|x |
-| 18| x|  |
+| 18| x|x |
 | 19| x|  |
 | 20| x|x |
 | 21| x|  |
@@ -34,4 +34,4 @@ Happy to discuss if anyone feels so inclined.
 | 25| x|x |
 | 30| x|  |
 | 32| x|  |
-| 67| x|  |
+| 67| x|x |
