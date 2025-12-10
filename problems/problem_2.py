@@ -8,5 +8,11 @@ class Fibonacci:
     def sum(self):
         return sum(self.fibonacci)
 
+    def sum_evens(self):
+        return sum([x for x in self.fibonacci if x % 2 == 0])
+
+    def sum_odds(self):
+        return sum([x for x in self.fibonacci if x % 2 != 0])
+
 if __name__ == "__main__":
-    print(Fibonacci(400000).sum())
+    print(Fibonacci(4000000).sum_evens())

@@ -39,5 +39,5 @@ class FibonacciSums
 end
 
 if __FILE__ == $PROGRAM_NAME
-  puts Fibonacci.new(4000000).sum_evens
+  puts FibonacciSums.new(4000000).sum_evens
 end
