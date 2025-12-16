@@ -12,4 +12,4 @@ fn generate_fibonacci(upper_limit: u64) -> Vec<u64> {
         fibonacci.push(fibonacci[fibonacci.len() - 1] + fibonacci[fibonacci.len() - 2]);
     }
     fibonacci
-}   
+}
