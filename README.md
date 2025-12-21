@@ -28,7 +28,7 @@ Happy to discuss solutions if anyone feels so inclined.
 | 18| x|x ||
 | 19| x|  ||
 | 20| x|x ||
-| 21| x|  ||
+| 21| x|x ||
 | 22| x|x ||
 | 24| x|x ||
 | 25| x|x ||
